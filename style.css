@@ -77,8 +77,10 @@ body {
 
  footer { 
    font-family: 'JetBrains Mono', monospace;
-   font-weight: 500
    color: #FFF;
-   text-align: center;
+   align-items: center;
+   font-weight: 500;
+   
+   
   }
 
