@@ -70,7 +70,10 @@ body {
   p {
     font-family: 'Open Sans', sans-serif;
     color: #C2C2C2;
+    text-align: center;
     font-weight: 400;
+    font-size: 16px
+    
   }
   
   p strong {
@@ -84,6 +87,7 @@ body {
   
   .image {
     max-width: 45%; /* Define a largura máxima para a imagem */
+    margin-right: 82px;
   }
   
 
@@ -100,3 +104,4 @@ body {
    
   }
 
+  
