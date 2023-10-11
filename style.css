@@ -12,52 +12,73 @@ body {
  }
 
  nav {
-  font-family: 'JetBrains Mono', monospace;
+   font-family: 'JetBrains Mono', monospace;
 
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
   
-  margin-bottom: 101px;
- }
+   margin-bottom: 101px;
+  }
  
  ul {
-
- }
+   list-style: none;
+   display: flex;  
+   gap: 64px;
+   margin: 0;
+   padding: 0;
+   
+  }
  
  a {
+   color: #FFF;
+   text-decoration: none;
+  }
 
- }
-
- li {
-
- }
+  ul li a {
+    opacity: 0.5;
+  }
 
  ul li a:hover {
-
- }
+  font-weight: Medium;
+  opacity: 1;
+  }
 
  main {
-
- }
+   display: flex;
+   align-items: center;
+   justify-content: center; 
+  }
 
  h1 {
-  font-family: 'JetBrains Mono', monospace;
- }
+   font-family: 'JetBrains Mono', monospace;
+   color: #FFF;
+   font-weight: 700
+  }
 
  h1 span {
-
- }
+   color: #00BFA6;
+  }
 
  p {
-
- }
+   font-family: 'Open Sans', sans-serif;
+   color: #C2C2C2;
+   font-weight: 400;
+  }
 
  p strong {
+   font-weight: 700;
+  }
 
- }
+  p span {
+    color: #00BFA6;
+    font-weight: 700;
+  }
 
  footer { 
-  font-family: 'JetBrains Mono', monospace;
- }
+   font-family: 'JetBrains Mono', monospace;
+   font-weight: 500
+   color: #FFF;
+   text-align: center;
+  }
 
