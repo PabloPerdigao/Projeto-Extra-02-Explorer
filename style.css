@@ -90,6 +90,13 @@ body {
     margin-right: 82px;
   }
   
+  #line {
+    width: 570px;
+    height: 1 px;
+    margin: 0px auto 8px;
+    border: 1px solid #00BFA6;
+    margin-top: 167px;
+    }
 
  footer { 
    font-family: 'JetBrains Mono', monospace;
@@ -100,7 +107,7 @@ body {
    font-weight: 500;
    line-height: 28px;
 
-   margin-top: 194px;
+   margin-top: 27px;
    
   }
 
