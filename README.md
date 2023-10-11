@@ -1,4 +1,4 @@
-<h1 align="center"> 👨🏼‍💻Projeto-Extra-01 I Explorer 
+<h1 align="center"> 👨🏼‍💻Projeto-Extra-02 I Explorer 
 <br/> 🚀👨🏼‍🚀#Desafios Rocketseat </h1>
 <br/>
 
@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto 01" src="image/preview.jpg" width="100%">
+  <img alt="Projeto - Extra 02" src="images/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -37,17 +37,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto 02 é um site básico com o intuito de divulgar uma empresa de serviço de viagens e de seus pacotes promocionais. Este projeto possui três links principais:
+O Projeto Extra 02 é um site básico com o intuito de divulgar uma empresa de Syber Security,oferecendo seus serviços/produtos.Este projeto possui três links principais:
 
-- [Site principal da Empresa](http://127.0.0.1:5500/Index.html)
+- [Página inicial/principal do site da  Empresa](http://127.0.0.1:5500/index.html)
 
-- [Página do site dedicada a ofertas](https://github.com/PabloPerdigao/Projeto-01-Explorer)
+- [Página do site dedicada aos serviços](https://github.com/PabloPerdigao/Projeto-Extra-02-Explorer)
 
-- [Link para contato](www.linkedin.com/in/pablo-perdigao)
+- [Página para contato](www.linkedin.com/in/pablo-perdigao)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/RoTJTF7TfxonTCWeWzruRI/Projeto01-Extra-(Copy)?node-id=12%3A2&mode=dev). <br/> <strong>OBS:</strong> É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/lFLke2zqjp5ZDJZRC7zb1f/Explorer-(Copy)?type=design&node-id=0-1&mode=design&t=7E6Da2NCcOGbQK5I-0). <br/> <strong>OBS:</strong> É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
 
@@ -55,5 +55,5 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-😉Feito com ♥ by Pablo Perdigão, aluno Explorer da Rocketseat! <br/>
-👋[Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
+😉 Feito com ♥ by Pablo Perdigão, aluno Explorer da Rocketseat! <br/>
+📲 [Participe da comunidade Rocketseat!](https://discord.gg/rocketseat)
