@@ -44,42 +44,48 @@ body {
   opacity: 1;
   }
 
- main {
-   display: flex;
-   text-align: center;
-   align-items: center;
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
   }
-
   
- h1 {
-   font-family: 'JetBrains Mono', monospace;
-   color: #FFF;
-   margin-bottom: 59px;
-   
-   
+  .text {
+    text-align: right;
+    max-width: 50%; /* Define a largura máxima para alinhar ao centro */
+    margin-right: 5%; /* Espaço entre o texto e a imagem */
   }
-
- h1 span {
-   color: #00BFA6;
+  
+  h1 {
+    font-family: 'JetBrains Mono', monospace;
+    color: #FFF;
+    margin-bottom: 59px;
   }
-
- p {
-   font-family: 'Open Sans', sans-serif;
-   color: #C2C2C2;
-   font-weight: 400;
-
-   margin-top: 59px;
-
+  
+  h1 span {
+    color: #00BFA6;
   }
-
- p strong {
-   font-weight: 700;
+  
+  p {
+    font-family: 'Open Sans', sans-serif;
+    color: #C2C2C2;
+    font-weight: 400;
   }
-
+  
+  p strong {
+    font-weight: 700;
+  }
+  
   p span {
     color: #00BFA6;
     font-weight: 700;
   }
+  
+  .image {
+    max-width: 45%; /* Define a largura máxima para a imagem */
+  }
+  
 
  footer { 
    font-family: 'JetBrains Mono', monospace;
