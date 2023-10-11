@@ -104,4 +104,10 @@ body {
    
   }
 
+  #padlock {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 999; /* Opcional: ajusta a camada de empilhamento (z-index) se necessário */
+  }
   
