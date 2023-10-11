@@ -1,14 +1,14 @@
 body {
   margin: 0;
- background: #2F2E41;
+  background: #2F2E41;
  
- font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .page {
-  width: 1080px;
-  margin: 0 auto;
-  padding-top: 71px;
+   width: 1080px;
+   margin: 0 auto;
+   padding-top: 71px;
  }
 
  nav {
@@ -54,6 +54,7 @@ body {
    font-family: 'JetBrains Mono', monospace;
    color: #FFF;
    font-weight: 700
+   
   }
 
  h1 span {
